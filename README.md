@@ -11,7 +11,7 @@
 
 #The main commands to tun the test are shown below:
 
-LANG = 'CHOOSE LANGUAGE. EX: 'PT''
-APIKEY = 'YOUR API KEY'
-APIURL = 'https://sentic.net/api/' + LANG + '/' + APIKEY + '.py?text='
+LANG = 'CHOOSE LANGUAGE. EX: 'PT'' \n
+APIKEY = 'YOUR API KEY' \n
+APIURL = 'https://sentic.net/api/' + LANG + '/' + APIKEY + '.py?text='\n
 FILENAME = 'YOUR FILE'
