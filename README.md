@@ -15,3 +15,5 @@ LANG = 'CHOOSE LANGUAGE. EX: 'PT'' </br>
 APIKEY = 'YOUR API KEY' </br>
 APIURL = 'https://sentic.net/api/' + LANG + '/' + APIKEY + '.py?text=' </br>
 FILENAME = 'YOUR FILE' </br>
+
+#Obs: API key must be renewed after 30 days. 
